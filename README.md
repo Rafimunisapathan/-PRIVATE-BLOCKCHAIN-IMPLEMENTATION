@@ -17,3 +17,5 @@ MENTOR: NEELA SANTOSH
  I used Ethers.js/run sql i have pasted my my code i got an output
 
 # OUTPUT#
+
+![Image](https://github.com/user-attachments/assets/26979876-56e1-4f23-9f36-cbe04620968d)
